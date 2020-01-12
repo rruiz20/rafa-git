@@ -1,0 +1,15 @@
+img {margin-left: auto;
+    margin-right: auto; 
+    height: 300px;
+    widows: auto;  
+}
+ul {padding: 0;
+    background-image: linear-gradient(to top,  rgb(36, 6, 6), rgb(236, 165, 165));
+    font-size: 20px; 
+    display: flex;
+    list-style: none;      
+    }  /* para todos los ul */
+
+li {flex: auto;                
+        text-align: center;
+    }
